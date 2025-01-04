@@ -3,6 +3,25 @@ This repository contains 21 introductory SQL exercises designed to help beginner
 
 ----
 
+## Relational Schema
+The Relational Schema for the exercises can be seen in Fig. 1.
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src='/Images/Image 1.png' width="600">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <em>Fig. 1. Relational Schema;
+      Source: Wikibooks (2024)</em>
+    </td>
+  </tr>
+</table>
+
+----
+
 ### Exercise 01 - Product Names Query
 Select the names of all the products in the store.
 
