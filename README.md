@@ -71,7 +71,7 @@ Apply a 10% discount to all products with a price larger than or equal to $120.
 ----
 
 ## Attribution
-The exercises and solutions contained in this repository were adapted from [Wikibooks](https://en.wikibooks.org/wiki/SQL_Exercises) and are available under the [Creative Commons Attribution-ShareAlike (CC BY-SA)](https://creativecommons.org
+The exercises and solutions contained in this repository were adapted from [Wikibooks](https://en.wikibooks.org/wiki/SQL_Exercises) and are available under the [Creative Commons Attribution-ShareAlike (CC BY-SA)](https://creativecommons.org).
 
 ---
 
