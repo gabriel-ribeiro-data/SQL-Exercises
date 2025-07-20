@@ -9,7 +9,7 @@ The Relational Schema for the exercises can be seen in Fig. 1.
 <table align="center">
   <tr>
     <td align="center">
-      <img src='/figures/fig-1-relational-schema.png' width="600">
+      <img src='/figures/fig1_relational_schema.png.png' width="600">
     </td>
   </tr>
   <tr>
